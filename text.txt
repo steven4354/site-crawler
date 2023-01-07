@@ -1,0 +1,436 @@
+------------------------
+https://tipalti.com
+------------------------
+How can we help?
+Ready to grow more efficiently? We’ll get you there.
+Welcome to the benefits of end-to-end automated solutions—built to handle every step of the payables cycle.
+Free up your finance teams from the day-to-day inefficiencies of manual accounts payable, and working with point systems. Tipalti delivers end to end payables solutions, purpose-built to handle the evolving needs of your business—with a focus on scale, efficiency, controls, and visibility.
+Touchless invoice processing with machine learning, advanced approvals, and PO matching.
+Execute payments in a wide range of methods and currencies all around the globe, manage payment approvals, built-in fraud detection, and instant payment.
+Unify global operations and ensure compliance across all entities and subsidiaries with HQ view.
+Enterprise-grade financial controls with role-based security, audit logs, and ensure compliance with KPMG approved tax engine.
+Empower supplier self service and reduce inquiries with a multi-language portal with supplier self service, and real-time view of payments and invoices.
+Touchless invoice processing with machine learning, advanced approvals, and PO matching.
+Execute payments in a wide range of methods and currencies all around the globe, manage payment approvals, built-in fraud detection, and instant payment.
+Unify global operations and ensure compliance across all entities and subsidiaries with HQ view.
+Enterprise-grade financial controls with role-based security, audit logs, and ensure compliance with KPMG approved tax engine.
+Empower supplier self service and reduce inquiries with a multi-language portal with supplier self service, and real-time view of payments and invoices.
+Unique to Tipalti, Global Partner Payments ensures your digital-first company can offer a top-tier partner experience that leading disrupters rely on to take their platform to the next level.
+Onboard new partners and manage existing ones with white-labeled, self-service partner management.
+Securely send thousands of payments to 196 countries, in local currencies in 6 payment methods in minutes—and eliminate errors before they happen.
+Ensure IRS tax compliance with KPMG-approved tax form collection, tax ID validation and withholding calculations.
+Mitigate exposure and conduct proactive fraud checks.
+Onboard new partners and manage existing ones with white-labeled, self-service partner management.
+Securely send thousands of payments to 196 countries, in local currencies in 6 payment methods in minutes—and eliminate errors before they happen.
+Ensure IRS tax compliance with KPMG-approved tax form collection, tax ID validation and withholding calculations.
+Mitigate exposure and conduct proactive fraud checks.
+Finally, your finance team can have greater visibility and control over corporate spending. We help streamline purchase requests, approvals, vendor selection, PO creation with real-time budget visibility.
+With simple, predefined custom forms, employees can easily submit purchase requests ensuring all critical spend information is collected upfront.
+Eliminate messy emails, spreadsheets, and tickets by managing every aspect of your procurement in one centralized place.
+Keep all procurement data easily searchable and accessible. With access to the true spend pipeline, finance, procurement, legal and security can get involved early.
+With simple, predefined custom forms, employees can easily submit purchase requests ensuring all critical spend information is collected upfront.
+Eliminate messy emails, spreadsheets, and tickets by managing every aspect of your procurement in one centralized place.
+Keep all procurement data easily searchable and accessible. With access to the true spend pipeline, finance, procurement, legal and security can get involved early.
+Gain full control and visibility over your corporate card spend with automatic reconciliation with ERP systems. The Tipalti virtual card is a simple, convenient, flexible, and secure card solution providing extended working capital benefits with cash-back rebates.
+Provide employees with a payment option that is easy to use.
+Set up, manage, and delete cards with ease.
+Issue cards with robust security and financial controls such as spend limits, vendor limits, and pre-approved categories.
+Get cash-back for every dollar you spend via virtual payment cards. It’s that simple!
+Manage all your company’s spend in one place with visibility that enables informed decisions about when to change or remove access to digital cards.
+Say goodbye to manual, spreadsheet-based reconciliation processes. Virtual card transactions are automatically captured and processed like any other payment method.
+Provide employees with a payment option that is easy to use.
+Set up, manage, and delete cards with ease.
+Issue cards with robust security and financial controls such as spend limits, vendor limits, and pre-approved categories.
+Get cash-back for every dollar you spend via virtual payment cards. It’s that simple!
+Manage all your company’s spend in one place with visibility that enables informed decisions about when to change or remove access to digital cards.
+Say goodbye to manual, spreadsheet-based reconciliation processes. Virtual card transactions are automatically captured and processed like any other payment method.
+Ready to remove 80% of your payables workload?
+Keep your payables knowledge sharp with frequently updated insights and strategies.
+Schedule a demo today and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/platform/
+------------------------
+Experience the AP Advantage with Tipalti’s Modern Cloud Infrastructure.
+Built for mass scale and powered by a multi-entity cloud architecture, the Tipalti platform provides world-class performance, reliability, and security. It’s no wonder our customers have consistently relied on us, even as their business grows. Robustly engineered for growing organisations, Tipalti future-proofs your payables operations.
+Elevate your accounts payable financial controls with Tipalti. Reduce fraud and prevent failed audits and regulatory penalties with built-in logic for role-based views and edit access, signatory rights, workflow, and approvals. Granular access roles and permissions limit what users can see and do, with roles that can be customized with 20+ permission options. Audit trails capture activity for all application users and suppliers, while ongoing OFAC and other sanctions screening cuts the risk of fraudulent payouts and penalties. Tipalti configures these enterprise-grade financial controls to align with best practices for your organization.
+Tipalti’s unique multi-entity architecture unifies AP operations across business units, subsidiaries, international divisions, and brands. Multi-entity business structures benefit from local autonomy, yet are connected by the Tipalti cloud for a consolidated perspective. From different branding, tax flows, payment methods, approvals, and more, it’s the flexibility you need to compliantly run disparate AP operations without the hassle.
+Tipalti’s modern multi-tenant platform is built for speed and scale. 24/7 access, constant innovation cycles, automatic product upgrades, and increased collaboration are just a few of the benefits that help you gain efficiencies and remain in compliance. Based on cloud standards, Tipalti is SSAE 16 SOC compliant and ISAE 3402 Type II certified for best-in-class performance and security. All personally identifiable information is stored encrypted using the Advanced Encryption Standard (AES).
+Tipalti has an open API architecture that allows for bi-directional sync. Our customers have implemented APIs to common systems such as Oracle, Microsoft Dynamics GP, Xero, and more. With enhanced security measures, like user roles restricting API access to specific IP addresses and active monitoring for any suspicious activity, it’s the toolkit you need to integrate to any system.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/en-uk/product/platform/
+------------------------
+Experience the AP Advantage with Tipalti’s Modern Cloud Infrastructure.
+Built for mass scale and powered by a multi-entity cloud architecture, the Tipalti platform provides world-class performance, reliability, and security. It’s no wonder our customers have consistently relied on us, even as their business grows. Robustly engineered for growing organisations, Tipalti future-proofs your payables operations.
+Elevate your accounts payable financial controls with Tipalti. Reduce fraud and prevent failed audits and penalties. Built-in logic for role-based access, signatory rights, invoice approvals and payment approvals, keep you protected. Customisable access roles and permissions limit what users can see and do, utilising 20+ permission options, while audit trails capture activity for all users and suppliers. What’s more, all of these enterprise-grade financial controls are configurable to align with your organisation.
+Tipalti’s unique multi-entity architecture unifies AP operations across business units, subsidiaries, international divisions, and brands. Multi-entity business structures benefit from local autonomy, yet remain connected for simple consolidation. Each entity can be configured with unique branding, tax flows, payment methods, approvals, and more. Giving you the flexibility you need to run disparate AP operations with ease.
+Tipalti’s modern multi-tenant platform is built for speed and scale. 24/7 access, constant innovation cycles, automatic product upgrades, and increased collaboration are just a few of the benefits that help you gain efficiencies and remain compliant. Based on cloud standards, Tipalti is SSAE 16 SOC compliant and ISAE 3402 Type II certified for best-in-class performance and security. All personally identifiable information is stored encrypted using the Advanced Encryption Standard (AES).
+Tipalti has an open API architecture that allows for bi-directional sync. Our customers benefit from APIs to common ERP systems such as Oracle NetSuite, Microsoft Dynamics GP and Xero, as well as bespoke connections to countless other business systems. With enhanced security measures, restricted API access to specific IP addresses and active monitoring for suspicious activity, it’s the toolkit you need to integrate to any system.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Eliminate the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimises delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Manage unique payables workflows and centralise AP for subsidiaries and entities within a single instance.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Take the headaches out of collecting and validating VAT tax information.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+Tipalti Europe Ltd, 15 Alfred Place, London, WC1E 7EB, United Kingdom. Registered in England & Wales, No.:12471817. Tipalti Europe Ltd is authorised by the Financial Conduct Authority as an Electronic Money Institution under the Electronic Money Regulations 2011. Our FRN (Firm Reference number) is 942778.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/en-eu/product/platform/
+------------------------
+Experience the AP Advantage with Tipalti’s Modern Cloud Infrastructure.
+Built for mass scale and powered by a multi-entity cloud architecture, the Tipalti platform provides world-class performance, reliability, and security. It’s no wonder our customers have consistently relied on us, even as their business grows. Robustly engineered for growing organisations, Tipalti future-proofs your payables operations.
+Elevate your accounts payable financial controls with Tipalti. Reduce fraud and prevent failed audits and regulatory penalties with built-in logic for role-based views and edit access, signatory rights, and invoice and payment approval workflows. Granular access roles and permissions limit what users can see and do, with roles that can be customised with 20+ permission options. Audit trails capture activity for all application users and suppliers. Tipalti configures these enterprise-grade financial controls to align with best practices for your organisation.
+Tipalti’s unique multi-entity architecture unifies AP operations across business units, subsidiaries, international divisions, and brands. Multi-entity business structures benefit from local autonomy, yet are connected by the Tipalti cloud for a consolidated perspective. From different branding, tax flows, payment methods, approvals, and more, it’s the flexibility you need to compliantly run disparate AP operations without the hassle.
+Tipalti’s modern multi-tenant platform is built for speed and scale. 24/7 access, constant innovation cycles, automatic product upgrades, and increased collaboration are just a few of the benefits that help you gain efficiencies and remain in compliance. Based on cloud standards, Tipalti is SSAE 16 SOC compliant and ISAE 3402 Type II certified for best-in-class performance and security. All personally identifiable information is stored encrypted using the Advanced Encryption Standard (AES).
+Tipalti has an open API architecture that allows for bi-directional sync. Our customers have implemented APIs to common systems such as Oracle, Microsoft Dynamics GP, Xero, and more. With enhanced security measures, like user roles restricting API access to specific IP addresses and active monitoring for any suspicious activity, it’s the toolkit you need to integrate to any system.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Eliminate the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimises delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Manage unique payables workflows and centralise AP for subsidiaries and entities within a single instance.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Take the headaches out of collecting and validating VAT tax information.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+Tipalti B.V. is a limited company registered in Amsterdam; Chamber of Commerce number: 83456902; registered office: Grote Bickersstraat 74-78, 1013KS Amsterdam, The Netherlands.
+Tipalti B.V. is not authorised by the Dutch Central Bank to process payments or issue e-money. An application under Electronic Money regulations 2011 has been submitted and is in process. We are not permitted to carry out regulated business activities.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/
+------------------------
+Automating payables isn’t just easier, safer, and more efficient. Modernizing your financial operations means your team can focus on what matters most—growing and scaling your business.
+Whether you’re looking to simplify your workflow to free up your team or transform your entire payables operations, Tipalti delivers automation tailored to your unique business.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Schedule a demo today and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/ap-automation/
+------------------------
+Free up your team’s time and resources while strengthening controls and accelerating business visibility for scale.
+Streamline your day-to-day operations with game-changing payables automation that enables you to rapidly scale and adapt to changing business needs, accelerate business visibility, and strengthen fraud, financial, cost, and cash controls.
+Reduce workload and eliminate inaccuracies with a multi-language supplier portal with supplier self-service. In addition, provide complete supplier visibility and reduce status inquiries.
+Let machine learning help scan, capture, match, and process invoice data at header and line level. Plus, built-in approvals and payment scheduling make the process touchless.
+Ensure fast, accurate mass payments across 196 countries in 120 currencies and 6 different payment methods with peace of mind that 26,000+ built-in rules proactively eliminate errors.
+Eliminate time and energy spent manually collecting tax information—ensure IRS tax compliance and reduce risk with KPMG approved tax engine.
+Automated 2- & 3-way PO matching means reducing waste, eliminating fraud, ensuring audit preparedness, and saving time.
+Seamlessly integrate detailed, accurate transaction and reconciliation reports with your ERP system ensuring faster financial close.
+Generate revenue from your payables operations and improve supply chain health by offering suppliers easy access to working capital sooner.
+The Tipalti platform is powered by a multi-entity cloud infrastructure and built for mass scale. Put simply, it was developed to future-proof your accounts payable and supplier payments operations as your company grows.
+See how automating payables can create a new era of team productivity.
+See how automation can transform your business with these industry-leading tools and resources.
+The IPS calculator helps you understand “cost per invoice” in terms of invoice processing and payment.
+Understand the real costs behind resolving invoice errors.
+Learn how demand, financial controls, and supplier management play into the need for AP automation.
+Cut down on misinformation and speed up the onboarding process by submitting electronic W-9s.
+Accounts payable approvals have never been clearer.
+See how payment automation is helping businesses scale their AP process.
+See how Tipalti makes the PO process beyond simple and efficient.
+Keep your payables knowledge sharp with frequently updated insights and strategies.
+What is AP automation?
+, invoice processing, PO matching, and payment reconciliation.
+. This allows teams to scale without adding more staff, gain better visibility into their financial data, and achieve financial close up to 25% faster.
+.
+How does AP software work?
+, mass payments, data entry, price matching, and more.
+.
+It then routes the invoice to the correct approvers. Once approved, the software sends invoice data to an integrated ERP system, while archiving invoices and audit trails.
+Advanced AP automation solutions are also capable of improving vendor management processes, managing tax forms, generating reports, and automating payments to suppliers around the globe.
+.
+How does automation software help AP teams scale?
+, cost savings, stronger vendor relationships, reduced risk, and complete integration.
+and keeps partnerships intact. This type of system will also help avoid any fees incurred for late payment.
+How much does AP software typically cost?
+depending on how complex you need it. This also includes annual license fees and any technical support required.
+plus the annual license fee and related support costs.
+all infrastructure investments are in the cloud. This means services are generally deployed across multiple tenants and the cost is shared. Usually providers of this approach charge on a transactional basis instead of the license model. The fees for implementation are proportional to the number of invoices processed per month.
+. Transactional costs range from $.65-$.95 depending on the scope of services and/or automation performed.
+on eligible spend.
+How much can a business save with Accounts Payable automation?
+over companies who manually process theirs. The more you move, the more you save.
+.
+.
+What is E-invoicing?
+is the exchange of an invoice between a supplier and a buyer in an integrated digital format. Many companies are unaware they are already sending/receiving EDI invoices.
+process is uploaded into a universally accessible cloud database.
+is the only means to substantiate ordering by an authorized company or employee in an automated system.
+How does AP software handle tax compliance?
+and simplifies the AP process. Our guided tax form wizard assists suppliers in choosing the correct form based on the country and business structure.
+. All data collection is done through digital capture during the onboarding flow, which ensures information is validated before payment is ever processed.
+with KPMG-approved tax form data validation and withholding calculations.
+How does AP automation software integrate with ERP systems?
+are largely built around identifying back-end processes that can be streamlined with AP automation. Tipalti has integrations that are pre-built to connect to popular ERP and accounting systems, which include Sage Intacct, NetSuite, and QuickBooks Online.
+We sync bill and payment data from the Tipalti platform to the accounting system in real time. Reconciliation is accelerated through the automatic sync of payment details. The level of integration is always dependent on your needs and workflow.
+How does AP automation help the approval process?
+. It skips the endless approver follow-up that happens with manual invoice processing and eases the labor workload. This means you can close the books sooner.
+.
+In a two-way approval, the invoice is automatically matched to the electronic purchase order. Three-way approval requires those documents, plus a receiving report as the third item.
+. It also keeps a business from making late payments to vendors, which could result in shipment cut-offs and poor business relationships.
+Does AP automation software improve supplier relationships?
+in a variety of ways.
+This type of platform immediately alerts merchants when invoices have been paid. When something is not paid, real-time status updates can be sent via email to keep people in the loop.
+means you have a competitive advantage. It should be based on transparency and respect. This means, that if a situation demands increased support or supply, vendors will be willing to go above and beyond to meet your needs.
+How can an automation improve the structure of an AP department?
+by separating duties both inside and outside of the team.
+Proper segregation of AP duties is a requirement for solid internal controls. Other objectives include preventing fraud, matching responsibilities, and redefining roles to accommodate automation. All of these will save a company time and money while improving the accounts payable process workflow.
+How does automated payment reconciliation work?
+(also called bank reconciliation) enables a business to upload an electronic version of a bank statement and automatically reconcile it. The e-version is provided by the bank using “matching rules” that are designated in the system.
+Remittance results across all payment methods, entities, and geographies are instantly normalized and built into deep reporting. This leads to faster and more accurate reconciliation and general ledger reporting.
+How does B2B payment processing work with AP automation software?
+especially critical for operations.
+When it comes to B2B payments, the trend points in the direction of ACH transfers as the leading form of payment. Every year, check remittances are steadily decreasing while wire transfers are on the rise. It’s evident that an increasing number of companies are realizing the benefits of AP automation software.
+Can AP automation software find duplicate payments?
+, look for a system that finds duplicate payments.
+. Our system checks from the time the invoice is uploaded, to when it’s approved, even communicating with integrated systems. When a potential duplicate has been found, the system will warn the user with an urgent notification.
+Schedule a demo today and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/supplier-management/
+------------------------
+Onboard Suppliers with brandable portal.
+Collect contact details.
+Verify bank account information.
+Collect and validate IRS and VAT tax IDs.
+Promote supplier self-service.
+.
+I don’t have to deal with all of the supplier email questions, problems, or discrepancies. It’s all done on the portal!
+Tipalti lets your brand take center stage with our Supplier Hub that can either be hosted by Tipalti or a white-labeled iFrame that embeds securely in the HTML of your website. Self-service makes it easy for suppliers to onboard quickly.
+Match the online Supplier Hub to your brand’s look and feel.
+Put the responsibility of collecting and maintaining accurate data on your suppliers, cutting the time AP spends onboarding vendors.
+Eliminates duplicate registrations for a clean vendor master file.
+. Tipalti provides clear visibility into any related transaction fees, while helping keep your company in full tax and regulatory compliance.
+Suppliers choose their preferred payment method, currency, and payment thresholds.
+The Supplier Hub is multilingual, with support for 11 languages.
+Tipalti’s proprietary rules engine, driven by 26,000 global rules, identifies payment issues before they happen to reduce payment error rates. Our rules vet and validate local bank routing details such as SWIFT and IBAN codes, screen OFAC blacklists, and more – all based on the payee’s country and payment method.
+Reduce payment errors by 66%+.
+Get global payment intelligence and fraud prevention built in.
+selection wizard guides payees to select and complete the correct tax form, while 1,000+ rules and TIN matching verify details. End-of-year 1099 and 1042-S reports provide a submission-ready file to help manage reporting to federal and state authorities, including withholdings. This tax compliance capability is KPMG reviewed and approved to meet IRS requirements. Non-US payers can take advantage of local tax/VAT ID collection in 49 countries.
+Collect W-9/W-8 tax forms seamlessly during onboarding.
+Verify tax details to prevent backup withholding penalties.
+and payment history.
+Suppliers receive proactive, white-labeled payment status email updates.
+Suppliers can get a real-time view of payments and invoices.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/invoice-management/
+------------------------
+. Tipalti doesn’t end with invoice processing. It enables full payment and reconciliation processes to complete the complex, manual business cycle.
+The new invoice text recognition feature and the overall AP software has been really valuable for our finance organization.
+Submitting bills is simple and easy for your suppliers. To centralize invoice receipt, suppliers can submit invoices via email or upload them directly to your secure portal and track their progress. Approvers can make more informed decisions with documents like vendor contracts and proof of work being attached to each invoice. The complete invoice lifecycle, from payment execution to reconciliation, can be managed and reviewed in the Tipalti Hub.
+Never key in another invoice. Optical Character Recognition (OCR) technology eliminates tedious invoice data entry. Layers of machine learning and managed services improve the performance of future invoices.
+Invoices are scanned into the system.
+Details are automatically extracted and pre-populated both the header and line level.
+After manual review, Tipalti intelligently recognizes any of your override changes and applies that logic to future invoices.
+A second layer of invoice data extraction after OCR ensures invoice data is accurately captured.
+Tipalti uses smart logic and machine learning for additional bill data prediction. Business rules assign bill approvers, bill level coding such as departments and accounts, and payer entity.
+Save time and improve efficiency with touchless straight-through processing.
+Minimize delays in obtaining approvals.
+With the mobile-friendly built-in messaging and file upload capabilities, AP teams and business approvers can communicate and collaborate with one another, resolving issues quickly and accelerating invoice processing times directly through the Tipalti Hub and bill approval emails. Approvers can make more informed decisions with documents like vendor contracts and proof of work attached to each invoice.
+Ready to streamline purchasing policies? You can configure rules to determine if inbound invoices should be matched based on your company’s policies. All rules are customized to align with your company’s needs.
+2-way and 3-way matching for headers and line levels and easily handles mismatches with tolerance ranges.
+If an invoice can’t be auto-matched based on the tolerance thresholds, you can define additional exception approvals.
+Any system can handle a single bill, but what happens when you have dozens or even hundreds of invoices to process? Whether you’re paying multiple invoices in a single workflow or in batch, Tipalti can handle it.
+What do accounts payable teams hate the most? Requests from suppliers about payment status. Automated communications ensure suppliers are informed throughout every step of the invoice and payment process – from invoice receipt, to approval, and payment.
+Status notifications via email and online self-service access to invoice and payment history drastically cuts AP time spent on inquiries and resolution.
+Boost productivity and reduce overall invoice processing costs.
+Because invoices are tied to the actual payment process, Tipalti delivers real-time payment reconciliation directly to your ERP after payments are made, without any need for finance to tie together countless spreadsheets.
+Audit trails maintain a deep history of user and supplier activity.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/po-matching/
+------------------------
+with purchase order matching integrated seamlessly with your end-to-end AP workflow. Tipalti’s modern user experience helps drive high process adoption, so buyers and suppliers comply with your PO policy to control company spend.
+Tipalti PO Matching is the most modern and intuitive solution I have seen and will help our financial operation gain even more efficiencies, while eliminating costs.
+Purchase order processes that work for you and save time. Ensure greater compliance with your company’s purchasing policies. All invoices go through the standard OCR, advanced data extraction, and approval workflows before payment is processed.
+Built for 2-way and 3-way matching, Tipalti provides the flexibility you need to eliminate overspending. Even if an invoice is auto-matched, you still have the option to require additional approvals before payment is processed.
+Want even more flexibility? Rather than manually reviewing all mismatches between invoices, purchase orders, and receiving reports, you can create tolerance thresholds based on amounts or percentages and on the bill or line level, so an invoice is still considered “matched” if it’s within the threshold.
+Exception reconciliation has never been easier or more intuitive. Tipalti shortens cycle time from invoice receipt to payment and maximizing discount opportunities.
+Exception approvals on purchase orders are easy. Any exceptions that exceed established thresholds can be sent for immediate approval through email and approved or contested with a single click.
+, Tipalti syncs POs and GRNs. Integrations are bi-directional, so PO statuses are automatically updated in ERP, too, such as the amount billed and if it’s complete or partial payment. Tipalti processes operating expenses and fixed assets the same way for matching, so there’s no change to the workflow. You get automated syncing and matching that works for your business.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+------------------------
+https://tipalti.com/product/global-payments/
+------------------------
+Tipalti is architected to securely send thousands of payments at scale. Ensure fast, accurate global partner payments to suppliers around the world – all with minimal accounts payable effort. 26,000+ built-in banking rules proactively eliminate payment errors before they happen.
+Tipalti has significantly increased our productivity. Paying publishers would take a week just to initiate and track payments, as well as send checks or PayPal. And we’d spend two days a month investigating and resolving payment issues. Now we’re able to do all this in one‐fifth the time.
+Say goodbye to data entry across multiple bank portals, costly overhead, and extra fees. Schedule payments in different methods, countries, and currencies in a single application. Tipalti automatically remits to suppliers in all payment methods with no interaction required by your staff.
+guides suppliers through choosing their preferred payment method and collecting banking details.
+Automatically validates supplier data in real-time using 26,000 global banking rules to eliminate payment errors.
+Want to move people off paper checks and wire transfers or wait to pay on smaller payment amounts? Tipalti incentivizes suppliers to choose the most cost-effective payment methods and shift to more efficient, safe electronic payments.
+Looking to reduce calls to your payables department? Proactive payment status communications keep suppliers informed when payments are processed, when (and why) they fail. Suppliers can also view their complete payment history in the online portal, freeing your team from hours spent on issue resolution.
+Protect the funds that are leaving your organization. Instituting strong internal controls is critical to scale payment operations. Enforce delegation of authority, segregation of duties, and system access.
+Tipalti offers the most comprehensive payables technology to help your business streamline, simplify, and evolve.
+Ditch the busy work with touchless invoice processing with smart OCR. Advanced approvals with AI streamlines the approval process and minimizes delays.
+Effortlessly onboard vendors with a multilingual, self-service portal that’s brandable. Plus, give suppliers a real-time view of payment and invoice status.
+Manage spend all in one place. Streamline purchase requests, PO’s, approvals, and vendors with budget visibility to make informed decisions.
+Eliminate overspending and strengthen financial controls with automated 2-way and 3-way matching and enjoy a frictionless approval cycle.
+Send payments in 120 currencies in 196 countries through six unique payment methods.
+Gain complete control and visibility over your corporate credit and debit card spend with a solution integrated into the most powerful global payables solution with automatic reconciliation.
+Save time and money on FX conversion payouts with highly competitive exchange rates.
+Manage unique payables workflows and centralize AP for subsidiaries and entities within a single instance.
+Speed up financial close by 25%+ by synching and reconciling multi-entity payables data with ERP and Accounting systems.
+Take the headaches out of collecting and validating IRS and VAT IDs. KPMG-approved for W-8/W-9 IRS requirements and generate 1099/1042-S tax prep reports.
+Simplify self-billing processes with automated invoice creation and submission while ensuring global regulatory compliance.
+Enterprise-grade financial controls: Fraud, tax, regulatory, audit, spend and cash flow.
+Thanks to NetNow, you can offer accelerated payments to suppliers and generate revenue with better working capital utilization.
+Tipaliti Detect lets you proactively identify payee fraud risk and maintain a full audit trail.
+Best-in-class integration with your existing ERP and accounting systems and sync invoices, suppliers, payments and purchase orders.
+Rest assured that data is collected, stored, and transmitted securely in the cloud. Tipalti is SSAE 18 and ISAE 3402 SOC 1 Type II and, SOC 2 Type I certified, and GDPR Compliant.
+Integrate any system through our highly secure API that offers full-featured interfaces.
+Easily sync data from marketplace platforms and tie performance analytics to pay partners.
+Get peace of mind for global transactions, more transparent controls and compliance review process by leveraging Tipalti’s banking and compliance rails.
+Take advantage of proactive, smarter processes for the entire payables operation as well as greater efficiency and risk mitigation.
+Talk to an expert and learn how you can take control of your payables.
+We Handled It.
+© 2010–2023 Tipalti Inc.
+
+
