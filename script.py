@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import random
 
 # the base URL of the website to crawl
-base_url = "https://tipalti.com"
+base_url = "https://www.thrasio.com"
 
 # create an empty set to store the visited URLs
 visited_urls = set()
@@ -97,6 +97,8 @@ while len(urls_to_visit) > 0 and len(visited_urls) < 1000:
     # add the sub-URLs to the list of URLs to visit
     urls_to_visit.extend(sub_urls)
 
-# save the formatted text to a .txt file
-with open('text.txt', 'w') as f:
-    f.write(formatted_text + '\n')
+    # save the formatted text to a .txt file
+    with open('text.txt', 'w') as f:
+        f.write(formatted_text + '\n')
+
+
